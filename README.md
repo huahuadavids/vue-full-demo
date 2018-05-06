@@ -1,6 +1,6 @@
-# vue1
+# a nearly complete vue project 
 
-> A Vue.js project
+> Try to be a good  Vue.js project starter 
 
 ## Build Setup
 

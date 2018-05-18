@@ -4,6 +4,7 @@
     <h2>Essential Links</h2>
     <div v-show="show1">hahahahahah</div>
     <div v-if="show2">hahahahahah</div>
+    <router-link to="/hua">Go to hua</router-link>
   </div>
 </template>
 <script>
